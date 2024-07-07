@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays And Arrays List/Arrays And Arrays List.iml" filepath="$PROJECT_DIR$/Arrays And Arrays List/Arrays And Arrays List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals and loops + circular program/Conditionals and loops/Conditionals and loops.iml" filepath="$PROJECT_DIR$/conditionals and loops + circular program/Conditionals and loops/Conditionals and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals and loops + circular program/Switch/Switch.iml" filepath="$PROJECT_DIR$/conditionals and loops + circular program/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TakingInput/TakingInput.iml" filepath="$PROJECT_DIR$/TakingInput/TakingInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstideaprogram/firstideaprogram.iml" filepath="$PROJECT_DIR$/firstideaprogram/firstideaprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
